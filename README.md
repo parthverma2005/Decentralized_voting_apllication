@@ -19,8 +19,8 @@ This project was designed as a learning experience to understand blockchain conc
 4. Project Structure
 - ├──  contracts # Solidity smart contracts
 - ├──  migrations # Truffle deployment scripts
-= ├──  src # React frontend
-= │ ├──  components # UI components
+- ├──  src # React frontend
+- │ ├──  components # UI components
 - │ ├──  App.js # Main app
 - ├──  test # Smart contract test cases
 - ├──  truffle-config.js
